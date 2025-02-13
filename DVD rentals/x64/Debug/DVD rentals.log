@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ethel\Downloads\CIS\DVD rentals\Source.cpp(23,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethel\Downloads\CIS\DVD rentals\Source.cpp(26,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DVD rentals.vcxproj -> C:\Users\ethel\Downloads\CIS\DVD rentals\x64\Debug\DVD rentals.exe
